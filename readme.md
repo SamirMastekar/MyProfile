@@ -1,8 +1,8 @@
-# [Praveen Kumar](https://inboxpraveen.github.io) portfolio website
+
 
 This is a static portfolio website hosted on GitHub pages. 
 
-Link to website: [https://inboxpraveen.github.io/](https://inboxpraveen.github.io)
+Link to website: [https://samirmastekar.github.io/MyProfile/]
 
-For queries send mail to: [PRAVEEN](mailto:inbox.praveen.kumar17@gmail.com)
+For queries send mail to: [SamirMastekar](mailto:2018mme018@sggs.ac.in)
 
